@@ -1,4 +1,4 @@
-# dataset-properties-on-the-market
+# Australian Properties for Sale Dataset
 This repository contains a dataset of properties currently listed on the market, scraped from [domain.com.au](https://www.domain.com.au). The dataset covers real estate listings across Australia, and provides key information on each property including location, price, and property features.
 
 _Last updated **31 August 2024**._
