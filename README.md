@@ -1,11 +1,11 @@
 # Australian Properties for Sale Dataset
 This repository contains a dataset of properties currently listed on the market, scraped from [domain.com.au](https://www.domain.com.au). The dataset covers real estate listings across Australia, and provides key information on each property including location, price, and property features.
 
-_Last updated **31 August 2024**._
+_Last updated **27 September 2024**._
 
 ## Dataset Overview
 
-The dataset includes approximately **159,000 properties** with the following features:
+The dataset contains the following for each property, if available:
 
 - **Street Address**: The street address of the property.
 - **Suburb**: The suburb in which the property is located.
